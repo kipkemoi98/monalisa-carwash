@@ -9,3 +9,15 @@ footer{
 .line{
     width: 30%;
 }
+.hr{
+    margin-bottom: 0.5em;
+
+}
+.icon{
+    margin-right: 1em;
+}
+.copyright p{
+    text-align: center;
+    color: #fff;
+    margin-bottom: .5em;
+}

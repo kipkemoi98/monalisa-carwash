@@ -7,6 +7,8 @@ import Services from './component/Services';
 import Policy from './component/Policy';
 import Error from './component/Error';
 import List from './component/List';
+import Footer from './component/Footer';
+
 
 const App = () => {
   return (
@@ -20,6 +22,7 @@ const App = () => {
         <Route path="/Policy" element={<Policy />} />
         <Route path="*" element={<Error />} />
       </Routes>
+      <Footer/>
     </>
   );
 };
