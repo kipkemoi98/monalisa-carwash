@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../Images/image3.jpg';
+import logo from '../Images/WhatsApp Image 2023-10-30 at 21.00.56.jpeg';
 import { NavLink } from 'react-router-dom';
 import SearchIcon from '@mui/icons-material/Search'; 
 import PersonIconIcon from '@mui/icons-material/Person'; 
